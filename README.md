@@ -36,7 +36,7 @@ Once the user provides input for the logo text color, a multiple choice question
 Once the background color question has been answered successfully, it will write the necessary code for the logo in the logo.svg file found in the examples directory, which can be viewed by the user by opening it on their browser or saving it as a file.
 
 Video example:
-https://watch.screencastify.com/v/cbg4Rm523nHoGHqvTFiY
+https://watch.screencastify.com/v/bLuaRD5WH5tIvgND4zYw
 
 Github Repo: 
 https://github.com/jujusoi/JM-SVG-Logo-Generator
